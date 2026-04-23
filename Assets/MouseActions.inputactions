@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "MouseActions",
+    "maps": [
+        {
+            "name": "Mouse",
+            "id": "096db2ad-342d-414f-a322-1a02ce3ba1ac",
+            "actions": [
+                {
+                    "name": "MousePress",
+                    "type": "Button",
+                    "id": "a6e436e1-2a3b-4b6a-8b66-d2b07163a555",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "f64b8bcc-5e0c-4ecb-bb22-81390a2bf1d7",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "MousePress",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
